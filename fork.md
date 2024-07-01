@@ -1,1 +1,1 @@
-Making my first open source contribution. Making open source contributions is a great way to boost my GitHub profile and it extends my network
+Making my first source contribution. Making open source contribution is a great way to bost my GitHub profile and it extends my network.
